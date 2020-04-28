@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>get_programming_with_fsharp</RootNamespace>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Cocco.fs" />
+    <Compile Include="Ananas.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
